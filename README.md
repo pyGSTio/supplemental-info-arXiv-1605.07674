@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/78143804.svg)](https://zenodo.org/badge/latestdoi/78143804)
 # Supplemental Information for the manuscript:
 ## "Demonstration of qubit operations below a rigorous fault tolerance threshold with gate set tomography"
 (also [arXiv:1605.07674](https://arxiv.org/abs/1605.07674) with a slightly different title)
